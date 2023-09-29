@@ -1,6 +1,6 @@
 ### Blockchain:
 
-From July 7th to July 9th 2023 : ETH Barcelona -> [Findagrape](https://github.com/3bow/findagrape)
+From July 7th to July 9th 2023 : *ETH Barcelona* -> [Findagrape](https://github.com/3bow/findagrape)
 
 General info about the project:
 
@@ -15,7 +15,7 @@ ___
 
 ### Astrophysics:
 
-(UPCOMING) From October 7th to October 8th 2023: NASA Space Apps Challenge (Challenge: Develop the Oracle of DSCOVR) -> [Datanauts](https://github.com/bavba/Datanauts)
+(UPCOMING) From October 7th to October 8th 2023: *NASA Space Apps Challenge* (Challenge: Develop the Oracle of DSCOVR) -> [Datanauts](https://github.com/bavba/Datanauts)
 
 
 General info about the project:
