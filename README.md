@@ -2,20 +2,12 @@
 
 From July 7th to July 9th 2023 : ETH Barcelona -> [Findagrape](https://github.com/3bow/findagrape)
 
-[Videopitch](https://www.youtube.com/watch?v=Nz-BkP3CPdQ)
-[Presentation](https://file.notion.so/f/s/1a89924a-4044-4d97-b4b2-7b9dd725df9e/pitchdeck_findagrape.pdf?id=ea0623f5-18b0-47f0-8337-d6ebca16e6d5&table=block&spaceId=4221057f-d7bd-464f-9586-a4f84f92fbb5&expirationTimestamp=1696118400000&signature=Wo1M3XvFnlZEO6zwNrm9zwBM2rCfXxkZ8_iSHMezU8A&downloadName=pitchdeck_findagrape.pdf)
-[Devfolio](https://devfolio.co/projects/findagrape-cdf4)
+[Videopitch](https://www.youtube.com/watch?v=Nz-BkP3CPdQ), [Presentation](https://file.notion.so/f/s/1a89924a-4044-4d97-b4b2-7b9dd725df9e/pitchdeck_findagrape.pdf?id=ea0623f5-18b0-47f0-8337-d6ebca16e6d5&table=block&spaceId=4221057f-d7bd-464f-9586-a4f84f92fbb5&expirationTimestamp=1696118400000&signature=Wo1M3XvFnlZEO6zwNrm9zwBM2rCfXxkZ8_iSHMezU8A&downloadName=pitchdeck_findagrape.pdf) & [Devfolio](https://devfolio.co/projects/findagrape-cdf4)
 
 Tech Stack:
 
 	Languages: Solidity
 	Protocols: Gnosis
-
-(UPCOMING) From October 6th to October 27th 2023: ETH Global @ ETH Online -> 
-
-(UPCOMING) From October 24th to October 26th 2023: European Blockchain Convention Hackathon ->
-
-(UPCOMING) From November 17th to November 19th 2023: ETH Global Istanbul ->
 
 ___
 
