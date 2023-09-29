@@ -10,6 +10,8 @@ From August 4th to August 18th 2023 : ETH Global @ Superhack -> [Eventnode](http
 
 (UPCOMING) From November 17th to November 19th 2023: ETH Global Istanbul ->
 
+___
+
 ### Astrophysics:
 
 (UPCOMING) From October 7th to October 8th 2023: NASA Space Apps Challenge (Challenge: Develop the Oracle of DSCOVR) -> [Helio Sentinel](https://github.com/bavba/Helio_Sentinel_Crew)
