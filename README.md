@@ -2,7 +2,14 @@
 
 From July 7th to July 9th 2023 : ETH Barcelona -> [Findagrape](https://github.com/3bow/findagrape)
 
-From August 4th to August 18th 2023 : ETH Global @ Superhack -> [Eventnode](https://github.com/3bow/eventnode)
+[Videopitch](https://www.youtube.com/watch?v=Nz-BkP3CPdQ)
+[Presentation](https://file.notion.so/f/s/1a89924a-4044-4d97-b4b2-7b9dd725df9e/pitchdeck_findagrape.pdf?id=ea0623f5-18b0-47f0-8337-d6ebca16e6d5&table=block&spaceId=4221057f-d7bd-464f-9586-a4f84f92fbb5&expirationTimestamp=1696118400000&signature=Wo1M3XvFnlZEO6zwNrm9zwBM2rCfXxkZ8_iSHMezU8A&downloadName=pitchdeck_findagrape.pdf)
+[Devfolio](https://devfolio.co/projects/findagrape-cdf4)
+
+Tech Stack:
+
+	Languages: Solidity
+	Protocols: Gnosis
 
 (UPCOMING) From October 6th to October 27th 2023: ETH Global @ ETH Online -> 
 
@@ -14,4 +21,7 @@ ___
 
 ### Astrophysics:
 
-(UPCOMING) From October 7th to October 8th 2023: NASA Space Apps Challenge (Challenge: Develop the Oracle of DSCOVR) -> [Helio Sentinel](https://github.com/bavba/Helio_Sentinel_Crew)
+(UPCOMING) From October 7th to October 8th 2023: NASA Space Apps Challenge (Challenge: Develop the Oracle of DSCOVR) -> [Datanauts](https://github.com/bavba/Datanauts)
+
+[Nasa Space Apps Challenge](https://www.spaceappschallenge.org/2023/find-a-team/nasa-vemos-el-sol/)
+
