@@ -19,7 +19,7 @@ ___
 
 ### Astrophysics:
 
-From October 7th to October 8th 2023 -> **NASA Space Apps Challenge** (Challenge: Develop the Oracle of DSCOVR)
+From October 7th to October 8th 2023 -> **NASA Space Apps Challenge**
 
 Tech Stack:
 
