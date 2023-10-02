@@ -33,4 +33,4 @@ Project:
 
 General info about the project:
 
-[Challenge](https://www.spaceappschallenge.org/2023/challenges/develop-the-oracle-of-dscovr/), [Official Team Page](https://www.spaceappschallenge.org/2023/find-a-team/nasa-vemos-el-sol/) & [Official Team Discussion](https://github.com/nasa/spaceapps/discussions/281).
+[Challenge](https://www.spaceappschallenge.org/2023/challenges/develop-the-oracle-of-dscovr/), [Official Team Page](https://www.spaceappschallenge.org/2023/find-a-team/nasa-vemos-el-sol/) & [Official Team Discussion](https://github.com/nasa/spaceapps/discussions/281)
