@@ -33,4 +33,4 @@ Project:
 
 General info about the project:
 
-[Nasa Space Apps Challenge](https://www.spaceappschallenge.org/2023/find-a-team/nasa-vemos-el-sol/)
+[Nasa Space Apps Challenge](https://www.spaceappschallenge.org/2023/find-a-team/nasa-vemos-el-sol/) & [Official Team Discussion](https://github.com/nasa/spaceapps/discussions/281).
