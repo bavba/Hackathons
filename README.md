@@ -1,7 +1,6 @@
 ### Blockchain:
 
-From July 7th to July 9th 2023 -> **ETH Barcelona** 
-
+From July 7th to July 9th 2023 -> **ETH Barcelona** (achieved the 6th position in the Quadrating Voting ranking).
 Tech Stack:
 
 	Languages: Solidity.
