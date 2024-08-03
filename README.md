@@ -1,11 +1,14 @@
-### Blockchain:
 
-From July 7th to July 9th 2023 -> **ETH Barcelona** 
+### 2024:
 
-Tech Stack:
+From October 4th to October 6th 2024 -> **NASA Space Apps Challenge 2024** (Machine Learning)
 
-	Languages: Solidity.
-	Protocols: Gnosis.
+_Coming Soon_
+
+
+### 2023:
+
+From July 7th to July 9th 2023 -> **ETH Barcelona** (Blockchain)
 
 Project:
 
@@ -20,14 +23,8 @@ Achieved the 6th position in the Quadrating Voting ranking.
 
 ___
 
-### Astrophysics:
 
-From October 7th to October 8th 2023 -> **NASA Space Apps Challenge**
-
-Tech Stack:
-
-	Languages: Python & Javascript.
-	Environments: Docker.
+From October 7th to October 8th 2023 -> **NASA Space Apps Challenge 2023** (Machine Learning)
 
 Project:
 
